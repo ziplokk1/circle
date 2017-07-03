@@ -332,3 +332,16 @@ jobs:
           command: |
             nosetests -v
 ```
+
+If everything went right, your output should look like this:
+
+```
+testInsert (test_insert_table1.TestTable1Insert) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.252s
+
+OK
+```
+
+Congrats! That's all there is to it!
