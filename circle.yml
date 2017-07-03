@@ -31,3 +31,7 @@ jobs:
           name: Check Connection
           command: |
             /bin/bash ./waitformysql.sh
+      - run:
+          name: Execute SQL Scripts
+          command: |
+            /bin/bash ./applysql.sh
