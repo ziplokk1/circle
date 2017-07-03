@@ -264,7 +264,7 @@ Success!
 
 ### Making python tests:
 
-The following steps assume you're using sqlalchemy and that you've used `pip freeze > requirements.txt`.
+The following steps assume you're using sqlalchemy, mysqlclient, and nose, and that you've used `pip freeze > requirements.txt`.
 
 Create a folder called `tests` and add a file named `test_insert_table1.py` in it.
 
