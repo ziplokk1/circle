@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/ziplokk1/circle.svg?style=svg)](https://circleci.com/gh/ziplokk1/circle)
+
 ### The background...
 I recently found myself with a need to create a tool which needed python and mysql together. I tried a ton of different methods even going so far as to write my own docker image which had python and mysql on the same image. But this was just too much overhead for my liking. Now, maybe there is already an image out there which encompasses my needs, but what if I need to use a different python or mysql version?
 
